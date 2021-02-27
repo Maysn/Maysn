@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mazen-mohamed-a983b6207/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omar-elgaml" height="30" width="30" style="color:white;" /></a>
+<a href="https://www.linkedin.com/in/mazen-mohamed-a983b6207/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maysn-linkedin" height="30" width="30" style="color:white;" /></a>
 </p>
