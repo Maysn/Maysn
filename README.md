@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently looking for a job as a frontend developer
 - 🌱 I’m currently learning redux, styled-components, and state management best practices
-- ⚡ Fun fact: I'm self-taught
 
 
 <p align="left">
